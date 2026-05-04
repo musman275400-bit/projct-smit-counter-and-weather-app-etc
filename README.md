@@ -1,0 +1,1 @@
+# projct-smit-counter-and-weather-app-etc
